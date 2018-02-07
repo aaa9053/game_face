@@ -60,11 +60,9 @@ The controller will be made to interact with DosBox in order to play retro games
   - Roll left: left-click (mouse 0)
   - Roll right: right-click (mouse 1)
 
-- [Demo Video](http://v.youku.com/v_show/id_XMjk0OTc4OTUyNA==.html?spm=a2hzp.8244740.0.0#paction)
+[Demo Video](http://v.youku.com/v_show/id_XMjk0OTc4OTUyNA==.html?spm=a2hzp.8244740.0.0#paction)
   
 
 ### Notes: Facial Recgnization Speedup Testing Result
 
 Original Speed(fps) using dlib is usually between 5~8, now it is increse to more than 20 when playing video.
-
-![example1](https://i.imgsafe.org/ca65170b46.png) 
